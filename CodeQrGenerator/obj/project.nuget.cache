@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yrVENIsHxJA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h8n8r\\Desktop\\WorkCode\\qrCode_code\\GeneratorQR\\CodeQrGenerator\\CodeQrGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h8n8r\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\h8n8r\\.nuget\\packages\\qrcoder\\1.7.0\\qrcoder.1.7.0.nupkg.sha512",
+    "C:\\Users\\h8n8r\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
